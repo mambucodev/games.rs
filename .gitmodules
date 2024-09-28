@@ -1,0 +1,6 @@
+[submodule "guess.rs"]
+	path = guess.rs
+	url = https://github.com/mambucodev/guess.rs.git
+[submodule "wordle.rs"]
+	path = wordle.rs
+	url = https://github.com/m0squdev/wordle.rs.git
