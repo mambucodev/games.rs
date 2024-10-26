@@ -10,7 +10,7 @@ This repository is a collection of games implemented in Rust. Each game is conta
 1. Ensure you have Rust installed on your system.
 2. Clone this repository along with its submodules:
    ```sh
-   git clone --recurse-submodules https://github.com/yourusername/games.rs.git
+   git clone --recurse-submodules https://github.com/mambucodev/games.rs.git
    ```
 3. Navigate to the project directory:
    ```sh
